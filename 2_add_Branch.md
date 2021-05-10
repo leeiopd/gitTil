@@ -1,6 +1,6 @@
-# Git_branch_추가
+# Git branch 추가
 
-### Git_flow_사용해서 작업
+### Git flow 사용해서 작업
 
 => <http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html>
 

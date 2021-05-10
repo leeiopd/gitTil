@@ -166,7 +166,6 @@
    * Repository 메뉴에서 merge 요청
    
    ![createRequest](./gitIssueImg/9.JPG)
-   
 
 
 
